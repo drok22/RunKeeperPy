@@ -1,0 +1,51 @@
+{
+    "Gel-Nimbus": {
+        "brand": "ASICS",
+        "name": "Gel-Nimbus",
+        "run_total": "12",
+        "miles_total": "34",
+        "color": "Lime"
+    },
+    "Ghost Max": {
+        "brand": "",
+        "name": "Ghost Max",
+        "run_total": "12",
+        "miles_total": "36",
+        "color": "Navy"
+    },
+    "NovaBlast 3": {
+        "brand": "ASICS",
+        "name": "NovaBlast 3",
+        "run_total": "7",
+        "miles_total": "38",
+        "color": "Blue/Black"
+    },
+    "Zoom Fly 5": {
+        "brand": "Nike",
+        "name": "Zoom Fly 5",
+        "run_total": "6",
+        "miles_total": "36",
+        "color": "White/Teal"
+    },
+    "Invincible Run 3": {
+        "brand": "Nike",
+        "name": "Invincible Run 3",
+        "run_total": "2",
+        "miles_total": "8",
+        "color": "Blue"
+    },
+    "Hyperion Max": {
+        "brand": "Brooks",
+        "name": "Hyperion Max",
+        "run_total": "30",
+        "miles_total": "250",
+        "color": "Coral"
+    },
+    "NovaBlast 3 White": {
+        "brand": "ASICS",
+        "name": "NovaBlast 3 White",
+        "run_total": "30",
+        "miles_total": "250",
+        "color": "White"
+    }
+}
