@@ -1,11 +1,11 @@
 from json import dump, load
 from json.decoder import JSONDecodeError
-from tkinter import Button, Entry, Label, Toplevel, W
+from tkinter import Button, Entry, Label, Tk, Toplevel, W
 from constants import BACKGROUND_COLOR, SAVED_SHOES_PATH, TEXT_COLOR, WINDOW_PAD_X, WINDOW_PAD_Y
 
 
 class AddShoesView():
-    def __init__(self, parent_window) -> None:
+    def __init__(self, parent_window: Tk) -> None:
         self.window: Toplevel = Toplevel(parent_window)
         self.window.title("Add Shoe Data")
         self.window.config(padx=WINDOW_PAD_X, pady=WINDOW_PAD_Y, bg="black")
